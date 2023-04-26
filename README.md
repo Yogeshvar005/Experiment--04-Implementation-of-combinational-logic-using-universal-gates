@@ -35,9 +35,9 @@ Y= A+B
 ## Program:
 
 
-Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
-Developed by:Yogeshvar.M
-RegisterNumber:  212222230180
+Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.   
+Developed by:Yogeshvar.M   
+RegisterNumber:  212222230180   
 ```
 module logic(a,b,c,d,w,x,y,z,f1,f2);   
 input a,b,c,d,w,x,y,z;     
